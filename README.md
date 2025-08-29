@@ -17,8 +17,8 @@ I'm a Computer Engineer who is passionate about encouraging others to get in the
 
 ## My Skills 🧠
 
-![Backend]([https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~U185EZ47FK7C/CERTIFICATE_LANDING_PAGE~U185EZ47FK7C.jpeg)) 
-![IT Support]([https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CAXBVQKGYHJ8/CERTIFICATE_LANDING_PAGE~CAXBVQKGYHJ8.jpeg)) 
+![Backend](<img width="1772" height="928" alt="image" src="https://github.com/user-attachments/assets/a3e495b0-5f00-4703-a338-e35cc00c9325" />)
+![IT Support](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CAXBVQKGYHJ8/CERTIFICATE_LANDING_PAGE~CAXBVQKGYHJ8.jpeg) 
 
 
 ## Featured Projects 💻 
