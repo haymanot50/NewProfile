@@ -1,6 +1,3 @@
-# NewProfile
-For a new profile
-### Final readme file: 
 
 # Hi there, I'm ! haymanot👋🏽
 
