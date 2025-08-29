@@ -29,5 +29,5 @@ I'm a Computer Engineer who is passionate about encouraging others to get in the
 
 ## Get in Touch 📬
 
-- [Personal Blog]((https://haymanotabera.wordpress.com/)) 
+- [Personal Blog](https://haymanotabera.wordpress.com/) 
 - [LinkedIn](linkedin.com/haymanot-abera-46526a22b) 
